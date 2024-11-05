@@ -1,1 +1,1 @@
-Aulas de extatistica experimental em py ministradas pelo professor Glauco Souza Rolim no departamento de ciencias exatas na unesp de Jaboticabal.
+Aulas de Estatística Experimental em Python ministradas pelo Professor Glauco Souza Rolim, no Departamento de Ciências Exatas da UNESP de Jaboticabal.
